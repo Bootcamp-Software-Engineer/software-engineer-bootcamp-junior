@@ -68,3 +68,5 @@ npx prisma migrate dev
 
 # 6. Iniciar o servidor de desenvolvimento
 npm run dev
+
+* **AI & Productive Coding:** Cloud Code  (Aceleração de desenvolvimento e refatoração)
