@@ -6,6 +6,8 @@ Repositório oficial do **Bootcamp Software Engineer Júnior**, promovido pela *
 
 ## 📌 Sobre o Bootcamp
 
+Não vamos apenas escrever código do zero. Vais aprender a trabalhar como os engenheiros de software modernos trabalham: utilizando ferramentas de Cloud Code & IA para produtividade, sem perder o rigor da arquitetura limpa e da segurança.
+
 Este evento foi desenhado para eliminar a distância entre a teoria académica e as exigências reais do mercado de trabalho de TI. Durante 1 semana (10 horas de prática), construímos do zero uma API REST moderna em TypeScript, aplicando boas práticas de arquitetura, persistência de dados, segurança e deploy na nuvem.
 
 * **📅 Data:** 23 a 27 de Novembro de 2026
